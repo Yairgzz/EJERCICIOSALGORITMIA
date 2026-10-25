@@ -6,5 +6,5 @@ Repositorio que contiene las implementaciones, experimentos, visualizaciones y a
 - **Institución:** FCFM - UANL
 
 ## Estructura
-- `src/`: Contiene los scripts en Python de cada ejercicio.
-- `report/`: Contiene el reporte final y las gráficas generadas.
+- `src/`: Contiene los scripts en Python de cada ejercicio y las gráficas generadas.
+- `report/`: Contiene el reporte final.
